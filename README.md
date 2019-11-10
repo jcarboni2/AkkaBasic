@@ -3,18 +3,18 @@
 This repository was created based on article https://www.devmedia.com.br/akka-programacao-concorrente/30714
 
 
-## Symmary
+## Important
 
-This project will run on a local machine to tests porpose
+This project needs to be executed on a local machine for testing purposes
 
 
-### Install
+### Installing
 
-## Clone this projeto
+## Clone this project
 
 $ git clone https://github.com/jcarboni2/AkkaBasic.git
 
 
 ### Pre requisite
 
-$ Antes de iniciar seus testes, você precisa importar todas dependências encontradas no arquivo pom.xml e definir Text file encoding da IDE usada (ex: Eclipse) para UTF-8
+$ Before starts this test, it has been necessary to have an IDE installed (e.g. Eclipse), the JDK version 1.8.X and import all depencies of pom.xml file.
